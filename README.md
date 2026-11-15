@@ -170,3 +170,4 @@ Search and scraping built for agents, not browsers.
 - [Tavily](https://tavily.com) - Search API built for agents. Clean results made for retrieval, with a free tier of 1,000 credits a month and no card required.
 - [Crawl4AI](https://github.com/unclecode/crawl4ai) - Open source crawler for agents. Turns pages into LLM-ready markdown. Free, Apache-2.0.
 - [Scrapling](https://github.com/D4Vinci/Scrapling) - Python scraping framework, from single requests to full crawls. Free, open source, BSD-3.
+- [Datacircle](https://datacircle.dev) - Free, open API with no key that ranks every GTM data API and searches all their plans, at [api.datacircle.dev/v1](https://api.datacircle.dev/v1). (Author-affiliated.)
